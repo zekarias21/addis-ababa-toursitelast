@@ -1,0 +1,87 @@
+body{
+    background-color:#dad7cd;
+    font-style:italic;
+}
+
+.mainpic{
+    width:800px;
+    height:600px;
+    background:url("AU.jpg");
+    margin:0 auto;
+    border:10px solid Brown;
+    border-radius:10px;
+}
+h2{
+    text-align:center;
+}
+h1{
+    margin:20px auto;
+    text-align:center;
+    background-color:brown;
+    width:400px;
+    height:40px;
+    border-radius:17px;
+}
+
+#unity-pic{
+    width:500px;
+    height:450px;
+    border:5px solid blue;
+    border-radius:50%;
+
+}
+#fountain-pic{
+    width:500px;
+    height:450px;
+    border:5px solid blue;
+    border-radius:50%;
+}
+#Entoto-pic{
+    width:500px;
+    height:450px;
+    border:5px solid blue;
+    border-radius:50%;
+}
+
+.pic1{
+   float:right;
+   font-size:22px;
+   margin:40px 0 40px 40px;
+}
+.pic2{
+   float:left;
+   font-size:22px;
+   margin:40px 40px;
+}
+.pic3{
+   margin:40px auto;
+   font-size:22px;
+}
+
+.guider{
+    width:500px;
+    height:500px;
+    margin:40px auto;
+    background-color:#83c5be;
+    text-align:center;
+    border:5px solid blue;
+    border-radius:24px;
+}
+h3{
+    padding:5px 20px;
+    font-size:30px;
+    font-color:red;
+    text-shadow:2px 2px 4px #f8f9fa;
+}
+#myAipic{
+    width:300px;
+    height:300px;
+    border:5px solid blue;
+    border-radius:50%;
+}
+#email{
+   margin:10px auto;
+   background-color:#1982c4;
+   width:250px;
+   border-radius:20px;
+}
